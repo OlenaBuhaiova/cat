@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Handjet&family=Montserrat:wght@400;700&family=Pacifico&family=Pixelify+Sans&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  scroll-behavior: smooth;
+}
+
+img {
+  display: block;
+  width: 100%;
+}
+
+h1 {
+  color: rgb(40, 240, 5);
+  /* Задаємо червоний колір тексту */
+  text-decoration: underline;
+  /* Додаємо підкреслення */
+  font-size: 36px;
+  /* Задаємо розмір шрифту у пікселях */
+  }
+
+h1, h2, h3 {
+    font-family: 'Handjet', cursive;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Pacifico', cursive;
+    font-family: 'Pixelify Sans', cursive;
+}
+
+h2 {
+  text-transform: uppercase;
+}
+
+#footer {
+  background-color: aqua;
+}
+
+footer {
+  background-color: brown;
+}
+
+.footer-text {
+  color: green;
+  margin-bottom: 100px;
+}
+
+.top-image {
+  margin: 50px auto;
+  border: 5px solid rgb(0, 255, 179);
+  padding: 5px;
+  width: 50%;
+  border-radius: 50%;
+  box-shadow: 0 0 20px rgb(75, 0, 128); 
+}
+
