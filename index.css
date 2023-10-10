@@ -33,6 +33,21 @@ h1, h2, h3 {
 
 h2 {
   text-transform: uppercase;
+  color: rgb(51, 89, 44);
+}
+
+h3 {
+  text-transform: uppercase;
+  color: rgb(86, 92, 85);
+}
+
+.menu {
+  width: 80%;
+  background-color: rgb(185, 230, 152);
+  margin-left: auto;
+  margin-right: auto;
+  padding: 50px;
+  max-width: 510px;
 }
 
 #footer {
@@ -40,7 +55,7 @@ h2 {
 }
 
 footer {
-  background-color: brown;
+  background-color: rgb(72, 220, 193);
 }
 
 .footer-text {
